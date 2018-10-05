@@ -15,7 +15,7 @@ Built with React, Redux, Bootstrap and Firebase.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development.
+These instructions will get you a copy of the project running on your local machine for development, well sort of..
 
 ### Prerequisites
 
@@ -35,7 +35,7 @@ git clone git@github.com:carlosangon/tulsaux-website.com.git
 
 A step by step to get a development env running
 
-Once repo is saved locally run
+Once repo is clone and dependencies are installed locally run
 
 ** Please contact me for API keys **
 
@@ -48,7 +48,7 @@ cd to project dir and run yarn start
 ## Built With
 
 * [Firebase](https://firebase.google.com/) - Backend framework used to store and serve data
-* [React 16.3.1](https://github.com/facebook/react/releases) - Duhh.
+* [React 16.5.2](https://github.com/facebook/react/releases) - Duhh.
 * [Redux](https://redux.js.org/) - Used to manage app's state
 * [React Redux](https://github.com/reduxjs/react-redux) - Framework used to connect Redux to React
 * [Redux Thunk](https://github.com/reduxjs/redux-thunk) - Used to connect components 
