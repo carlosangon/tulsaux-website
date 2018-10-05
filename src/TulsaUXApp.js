@@ -13,12 +13,14 @@ import Footer from './components/Footer';
 const TulsaUXApp = () => (
   <div>
     <HeaderHero />
-    <HeroEvent />
-    <AboutSection />
-    <RecentSpeakers />
-    <Mission />
-    <Sponsors />
-    <FAQs />
+    <main>
+      <HeroEvent />
+      <AboutSection />
+      <RecentSpeakers />
+      <Mission />
+      <Sponsors />
+      <FAQs />
+    </main>
     <NewsletterSignup />
     <Footer />
   </div>
